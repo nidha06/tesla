@@ -1,0 +1,257 @@
+
+*{
+    margin: 0;
+}
+.footer{
+    background-color: black;
+    height: 377px;
+    width: 100%;
+}
+.footer-main{
+    background-color: black;
+    height: 143px;
+    width: 100%;
+}
+.main{
+    margin-top: 0%;
+}
+.image-2{
+    margin-top: -4px;
+}
+.image-3{
+    margin-top: -4px;
+}
+.image-4{
+    margin-top: -4px;
+}
+.image-5{
+    margin-top: -4px;
+}
+.image-6{
+    margin-top: -4px;
+}
+.image-7{
+    margin-top: -4px;
+}
+.image-8{
+    margin-top: -4px;
+}
+.image-9{
+    margin-top: -4px;
+}
+.footer{
+    margin-top: -4px;
+    position: relative;
+}
+
+.image-1{
+    position: relative;
+    z-index: 1;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    z-index: 10;
+    position: absolute;
+    container: 100%;
+
+}
+
+
+#q-mark{
+    width: 22px;
+    margin-left: 14px; 
+}
+.right-side{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 45px;
+   
+    
+}
+.list-1{
+    display: flex;
+    list-style: none;
+    column-gap: 18px;
+    margin-top: 24px;
+    margin-right: 322px;
+}
+.icons{
+    display: flex;
+    list-style: none;
+    margin-right: 53px;
+    margin-top: 17px;
+}
+.navbar{
+    position: absolute;
+    z-index: 5;
+}
+.icon-1{
+    margin-left: 0px;
+}
+
+#li-1{
+    padding-left: 10px;
+    color: #fff;
+}
+.tesla{
+    margin-top: -18px;
+    height: 113px;
+    width: 104px;
+    z-index: 55;
+    margin-left: 31px;
+}
+.main{
+    width: 96%;
+}
+.font{
+    margin-top: -725px;
+    z-index: 60;
+    position: absolute;
+    margin-left: 565px;
+    font-size: 29px;
+    color: #fff;
+}
+.font2{
+    margin-top: -657px;
+    z-index: 60;
+    position: absolute;
+    margin-left: 526px;
+    font-size: 19px;
+    color: #fff;
+    
+    text-underline-offset: 5px;
+}
+u{
+    text-decoration-thickness: 1px ;
+}
+.button1{
+    background-color: #4278f5;
+    border-radius: 7px;
+    width: 272px;
+    height: 41px;
+    text-align: center;
+    margin-top: -80px;
+    position: absolute;
+    z-index: 60;
+    margin-left: 403px; 
+    color: #fff;
+
+}
+.button2{
+    background-color: #fff;
+    border-radius: 7px;
+    width: 272px;
+    height: 41px;
+    text-align: center;
+    margin-top: -80px;
+    position: absolute;
+    z-index: 60;
+    margin-left: 700px;
+    color: black;
+}
+.center-image3{
+    margin-left: 61px;
+}
+.center-image4{
+    margin-left: 59px;
+}
+.center-image7{
+    margin-left: -56px;
+}
+.footer1{
+    position: absolute;
+    z-index: 66;
+    color: #fff;
+    text-align: center;
+    margin-left: 412px;
+    font-size: 13px;
+    margin-top: 48px;
+}
+.footer2{
+    position: absolute;
+    z-index: 66;
+    color: #fff;
+    text-align: center;
+    margin-left: 412px;
+    font-size: 13px;
+    margin-top:  156px;
+}
+.footer3{
+    position: absolute;
+    z-index: 66;
+    color: #fff;
+    text-align: center;
+    margin-left: 412px;
+    font-size: 13px;
+    margin-top:  265px;
+}
+.footer4{
+    position: absolute;
+    z-index: 66;
+    color: #fff;
+    text-align: center;
+    margin-left: 412px;
+    font-size: 13px;
+    margin-top:  1px;
+}
+.cyber-truck img{
+    position: absolute;
+    margin-top: -839px;
+    margin-left: 337px;
+}
+
+.foundation{
+    position: absolute;
+    margin-top: -643px;
+    margin-left: 575px;
+}
+.button-black{
+    background-color: hsl(240, 8%, 5%);
+    opacity: 71%;
+    border-radius: 1px;
+    width: 272px;
+    height: 41px;
+    text-align: center;
+    margin-top: -80px;
+    position: absolute;
+    z-index: 60;
+    margin-left: 403px; 
+    color: #fff;
+    border-color: #fff;
+    border: solid;
+    border-width: 1px;
+}
+.button1-balck{
+    background-color: hsl(240, 8%, 5%);
+    opacity: 71%;
+    border-radius: 1px;
+    width: 272px;
+    height: 41px;
+    text-align: center;
+    margin-top: -80px;
+    position: absolute;
+    z-index: 60;
+    margin-left: 700px;
+    color: #fff;
+    border-color: #fff;
+    border: solid;
+    border-width: 1px;
+}
+.list-1 li{
+    margin-left: 5px;
+}
+.footer-list{
+    color: #fff;
+    list-style: none;
+    margin-left: 0px;
+    margin-left: 429px;
+  
+    padding-top: 116px;
+    display: flex;
+    
+    column-gap: 23px;
+    font-size: 12px;
+}
+
+
